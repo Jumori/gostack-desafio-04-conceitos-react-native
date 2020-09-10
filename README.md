@@ -23,4 +23,5 @@ Para mais informações sobre o desafio proposto, acesse o repositório do desaf
 4. Para executar os testes automatizados, execute o comando `yarn test`
 
 > 💡 Para que a aplicação mobile consiga realizar as requisições às APIs, é necessário que haja um servidor local do backend.
+
 > 💡 Para que a emulação do aplicativo funcione, é necessário ter configurado um ambiente de emulação do dispositivo mobile
